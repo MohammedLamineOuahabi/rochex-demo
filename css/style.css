@@ -1,0 +1,45 @@
+header{
+    height: 50vh;
+    background-size: cover;
+    background-position: left;
+}
+.title{
+    padding-top: 5%;
+}
+.title h2{
+    color: #FFF;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.title h6{
+    color: #fff;
+    font-size: 20px;
+}
+.section-title h3{
+    border-bottom: 3px solid #E24727;
+    margin-bottom: 5px;
+}
+.single-demo img{
+    border: 15px solid #ECECEC;
+    border-radius: 7px;
+}
+p.sub{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.main{
+    margin-bottom: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
